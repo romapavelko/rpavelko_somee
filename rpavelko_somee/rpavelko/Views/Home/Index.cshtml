@@ -1,0 +1,41 @@
+﻿@using rpavelko.Data.Entities
+@{
+    ViewBag.Title = "Home Page";
+}
+<h2>@ViewBag.Message</h2>
+<table style="border: 0px;">
+    <colgroup>
+        <col width="40%;" />
+        <col width="60%;" />
+    </colgroup>
+    <tr>
+        <td valign="top" style="border: 0px;">
+            <br />
+            <br />
+            <h3>
+                Test database select registered users (table Accounts):</h3>
+            <ul>
+                @foreach (Account item in ViewBag.Accounts)
+                {
+    
+                    <li>
+                        @item.FirstName&nbsp;@item.LastName
+                    </li>
+                }
+            </ul>
+        </td>
+        <td style="border: 0px;">
+            <div style="width: 100%" align="center">
+                <img src="@Url.Content("~/Content/images/z_c17d4b0e.jpg")" style="width: 250px;" alt=""/>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var a = [{ val: 'qwe'}];
+        eval(a);
+    });
+</script>

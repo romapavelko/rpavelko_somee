@@ -1,0 +1,220 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:IUnitOfWork.cs" caret="14" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:UnitOfWork.cs" caret="0" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:Disposable.cs" caret="31" fromTop="2" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:IContextFactory.cs" caret="0" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:IContext.cs" caret="0" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Repositories/d:Interfaces/f:IRepository.cs" caret="308" fromTop="11" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Utils/f:Security.cs" caret="110" fromTop="5" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Repositories/f:RepositoryBase.cs" caret="418" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Repositories/f:AccountRepository.cs" caret="776" fromTop="1" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/f:packages.config" caret="0" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Extensions/f:QueryableExtensions.cs" caret="863" fromTop="21" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Repositories/d:Interfaces/f:IAccountRepository.cs" caret="102" fromTop="4" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Mapping/f:AccountMap.cs" caret="1066" fromTop="23" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:Context.cs" caret="857" fromTop="30" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Extensions/f:EnumerableExtensions.cs" caret="0" fromTop="0" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Entities/f:Account.cs" caret="451" fromTop="14" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Shared/f:_Layout.cshtml" caret="39" fromTop="3" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/f:Web.config" caret="2783" fromTop="19" />
+      <File id="BFDF3C55-1B2E-4671-B0A2-E3003F1BF58D/d:Core/f:ContextFactory.cs" caret="0" fromTop="0" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:Register.cshtml" caret="1416" fromTop="0" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:App_Start/f:NinjectWebCommon.cs" caret="2289" fromTop="28" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Models/f:AccountModels.cs" caret="416" fromTop="11" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3211" fromTop="96" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:ChangePassword.cshtml" caret="989" fromTop="0" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:HomeController.cs" caret="234" fromTop="8" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="0" fromTop="0" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:LogOn.cshtml" caret="0" fromTop="0" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="1065" fromTop="39" />
+      <File id="9EB23137-4D53-444F-80A0-C27BB8923A76/f:NuGet.Config/s:..?.nuget?NuGet.Config" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="677" fromTop="19" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Models/f:AccountModels.cs" caret="1196" fromTop="21" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Models/f:AccountModels.cs" caret="1547" fromTop="5" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Models/f:AccountModels.cs" caret="1655" fromTop="9" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:LogOn.cshtml" caret="895" fromTop="26" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:Register.cshtml" caret="1293" fromTop="33" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:Register.cshtml" caret="1272" fromTop="31" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:Register.cshtml" caret="1027" fromTop="23" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="1135" fromTop="20" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="1997" fromTop="24" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="2089" fromTop="23" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="2284" fromTop="20" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="573" fromTop="21" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3092" fromTop="18" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Models/f:AccountModels.cs" caret="314" fromTop="10" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3759" fromTop="20" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3862" fromTop="9" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3629" fromTop="21" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:AccountController.cs" caret="3211" fromTop="15" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:ChangePassword.cshtml" caret="1012" fromTop="24" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Account/f:ChangePassword.cshtml" caret="989" fromTop="22" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="941" fromTop="16" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="229" fromTop="10" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="126" fromTop="5" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="878" fromTop="28" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="284" fromTop="5" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="941" fromTop="7" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Views/d:Home/f:Index.cshtml" caret="1065" fromTop="12" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:HomeController.cs" caret="105" fromTop="5" />
+      <File id="85424618-467D-4134-B999-E57F0C548CD6/d:Controllers/f:HomeController.cs" caret="643" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.ConfigurationRegistrar">
+      <Item value="Add`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="new" priority="95" />
+      <Item value="var" priority="191" />
+      <Item value="factory" priority="31" />
+      <Item value="ViewBag" priority="63" />
+      <Item value="accountRepository" priority="31" />
+      <Item value="foreach" priority="26" />
+      <Item value="Html" priority="123" />
+      <Item value="item" priority="187" />
+      <Item value="break" priority="31" />
+      <Item value="Display`0" priority="7" />
+      <Item value="AccountRepository" priority="123" />
+      <Item value="model" priority="194" />
+      <Item value="account" priority="159" />
+      <Item value="string" priority="31" />
+      <Item value="AccountController" priority="29" />
+      <Item value="FirstName" priority="26" />
+      <Item value="LastName" priority="32" />
+      <Item value="Email" priority="27" />
+      <Item value="PwdSalt" priority="27" />
+      <Item value="salt" priority="96" />
+      <Item value="PwdHash" priority="27" />
+      <Item value="Server" priority="32" />
+      <Item value="Security`0" priority="64" />
+      <Item value="UnitOfWork" priority="64" />
+      <Item value="Url" priority="29" />
+      <Item value="Content" priority="22" />
+      <Item value="images" priority="22" />
+      <Item value="z_c17d4b0e.jpg" priority="22" />
+      <Item value="Register" priority="32" />
+      <Item value="ArrayList" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Data.Repositories.AccountRepository">
+      <Item value="GetAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="foreach" priority="5" />
+      <Item value="Html" priority="15" />
+      <Item value="item" priority="15" />
+      <Item value="Url" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Raw`0" priority="53" />
+      <Item value="Display`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Data.Entities.Account">
+      <Item value="FirstName" priority="107" />
+      <Item value="LastName" priority="107" />
+      <Item value="PwdHash" priority="26" />
+      <Item value="PwdSalt" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="ul" priority="5" />
+      <Item value="&amp;nbsp;" priority="0" />
+      <Item value="h2" priority="5" />
+      <Item value="br" priority="5" />
+      <Item value="table" priority="5" />
+      <Item value="colgroup" priority="6" />
+      <Item value="col" priority="5" />
+      <Item value="width" priority="20" />
+      <Item value="tr" priority="5" />
+      <Item value="td" priority="5" />
+      <Item value="div" priority="5" />
+      <Item value="style" priority="18" />
+      <Item value="align" priority="5" />
+      <Item value="center" priority="5" />
+      <Item value="img" priority="5" />
+      <Item value="src" priority="5" />
+      <Item value="About.cshtml" priority="5" />
+      <Item value="valign" priority="5" />
+      <Item value="top" priority="5" />
+      <Item value="bookmark-label" priority="6" />
+      <Item value="border" priority="13" />
+      <Item value="border-style" priority="4" />
+      <Item value="none" priority="4" />
+      <Item value="alt" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlEntityCodeCompletionContext">
+      <Item value="&amp;nbsp;" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Models.LogOnModel">
+      <Item value="Email" priority="165" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Models.RegisterModel">
+      <Item value="FirstName" priority="55" />
+      <Item value="LastName" priority="27" />
+      <Item value="Email" priority="27" />
+      <Item value="Password" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Data.Repositories.Interfaces.IAccountRepository">
+      <Item value="ValidateUser`0" priority="26" />
+      <Item value="GetAccountByEmail`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@rpavelko.Data.Utils.Security">
+      <Item value="GenerateSalt`0" priority="26" />
+      <Item value="HashPassword`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Data.Core.IUnitOfWork">
+      <Item value="Commit`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.DataType">
+      <Item value="EmailAddress" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:rpavelko.Models.ChangePasswordModel">
+      <Item value="OldPassword" priority="26" />
+      <Item value="NewPassword" priority="26" />
+      <Item value="Email" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="width" priority="1" />
+      <Item value="bookmark-label" priority="0" />
+      <Item value="border" priority="1" />
+      <Item value="border-style" priority="0" />
+      <Item value="none" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Content`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="eval" priority="10" />
+      <Item value="a" priority="10" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
